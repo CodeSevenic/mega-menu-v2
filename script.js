@@ -1,5 +1,5 @@
 const menu = document.querySelector('.menu');
-// const menuMain = menu.querySelector('.menu-main');
+const menuMain = menu.querySelector('.menu-main');
 const goBack = menu.querySelector('.go-back');
 const menuTrigger = document.querySelector('.mobile-menu-trigger');
 const closeMenu = menu.querySelector('.mobile-menu-close');
